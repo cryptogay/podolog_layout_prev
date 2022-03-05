@@ -1,0 +1,9 @@
+.navbar-nav li{
+    margin-left: 50px;
+}
+.navbar-nav:hover {
+    cursor: pointer;
+}
+.nav-bg-color {
+    background-color: rgb(75, 52, 88);
+}
